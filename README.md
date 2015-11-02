@@ -16,12 +16,9 @@ Gulp Additions
 
 	1. Uglified main.js (new file found in views/dist) and linked new main.min.js to pizza.html
 	2. Uglified perfmatters.js (new file found in dist) and linked index.html to new all.min file
-	3. Minified bootstrap-grid.css (new file found in views/dist/css) and linked pizza.html to new min file.
-	4. Optomized images for pizza.html (new images found in views/dist/images) and linked to pizza.html
-	5. Ran lint on all js files.
+
 
 More Notes
 
 	1. My minified files for views can be found in "views/dist"
 	2. My minified files for the index.html can be found in "dist"
-	3. Link to website: 
